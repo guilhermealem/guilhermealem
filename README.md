@@ -42,25 +42,22 @@
 
 <h2 align="left">Social</h2>
 
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  />
-  <a href="balakadev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="40" alt="discord logo"  />
+<p align="left">
+  <a href="https://www.linkedin.com/in/guilherme-alem/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://youtube.com/@balakadev2219?si=AiJXKcathRoWgGFN" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="55" height="40" alt="youtube logo"  />
+  <a href="https://youtube.com/@balakadev2219">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/gui.alem/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo"  />
+  <a href="https://www.instagram.com/gui.alem/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:balaka.contato@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo"  />
+  <a href="mailto:balaka.contato@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.twitch.tv/balakadev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="55" height="40" alt="twitch logo"  />
+  <a href="https://www.twitch.tv/balakadev">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
   </a>
-</div>
+</p>
 
 ###
